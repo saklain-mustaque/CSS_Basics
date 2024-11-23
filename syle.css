@@ -1,0 +1,35 @@
+@font-face {
+    font-family: norse-bold;
+    src: url('./font/Norse-Bold.otf');
+}
+
+
+.img > img {
+    width: 100%;
+    height: 100%;
+}
+
+.logo{
+    opacity: 0.4;
+    background: black;
+    position: absolute;
+    top: 20px;
+    width: 10em;
+}
+section{
+    display: flex;
+}
+.img-container {
+    height: 100%;
+    width: 90%;
+    padding-right: 10px;
+}
+
+.form-container{
+    margin-left: 20px;
+    background-color: rgb(243, 242, 242);
+}
+
+.form-section {
+    background-color: white;
+}
